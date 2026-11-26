@@ -2,7 +2,7 @@
 
 Sistema - Registro de Atendimento Medico
 Prof.: Lucas C. Machado
-Grupo: gilberto, Alycia, Vitoria, Luciano
+Grupo: Gilberto, Alycia, Vitoria, Luciano
 
 Enunciado : “Uma empresa atende diferentes clientes e precisa consultar o histórico dos serviços. Que dificuldades poderiam surgir?”
 
